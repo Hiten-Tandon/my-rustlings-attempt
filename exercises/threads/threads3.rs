@@ -1,4 +1,3 @@
-// I AM NOT DONE
 // threads3.rs
 // Execute `rustlings hint threads3` or use the `hint` watch subcommand for a hint.
 
